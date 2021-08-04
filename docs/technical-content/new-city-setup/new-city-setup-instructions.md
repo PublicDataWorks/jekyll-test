@@ -71,8 +71,9 @@ The below checklist is required for displaying your specific city’s details in
 Located in **/instance-files/letterBody.tpl**
 
 
-
-* Change ...`Grenville City Code Section 1-2212 (the Police Monitors Ordinance) that the Office of the Police Monitor (PM)`... to reflect your city and organization information.
+* Change `Office of the Police Monitor (PM)` to reflect the name of your organization.
+* Change `Grenville City` to reflect your city name.
+* Change `Code Section 1-2212 (the Police Monitors Ordinance)` to reflect your city's ordinance code.
 * Change all occurrences of `PM` to reflect your organization’s acronyms. 
 * Change all occurrences of `GCPD` to reflect your city's police department.
 * Change the contact `John A Simms or Nina S Ambroise` to reflect the name(s) of your organization’s Police Monitor(s) and Complaint Intake Specialist(s).
