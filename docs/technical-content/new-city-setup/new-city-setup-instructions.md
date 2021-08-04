@@ -6,7 +6,6 @@ grand_parent: Technical Content
 ---
 
 
-
 # *New City Setup Instructions*
 
 We’re so glad you have decided to use our Police Data Manager tool! This guide is meant to provide instructions for setting up your Police Data Manager and Instance Files in order to use and customize the tool for your city.
