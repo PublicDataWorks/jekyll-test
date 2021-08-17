@@ -43,7 +43,7 @@ Add absolute path of your instance-files folder location in whatever file you us
   * In terminal: open ~/.zshrc
   * In file: export INSTANCE_FILES_DIR=“`paste path here`”
 * enter the command `source ~/.zshrc`
-  * tip: exit out your terminals for source to take effect. To double check reopen your terminal and enter `echo $INSTANCE_FILES_DIR` , you should see the path that you pasted.
+  * **tip:** exit out your terminals for source to take effect. To double check reopen your terminal and enter `echo $INSTANCE_FILES_DIR` , you should see the path that you pasted.
 
 **Run App**
 
@@ -53,6 +53,7 @@ Add absolute path of your instance-files folder location in whatever file you us
 
 
 ## CHANGE CITY INSTANCES
+
 
 The below checklist is required for displaying your specific city’s details in the Police Data Manager tool. 
 
@@ -242,7 +243,7 @@ Follow this [link](https://publicdataworks.github.io/pdm-docs/common-content/com
 
 Follow this [link](https://publicdataworks.github.io/pdm-docs/technical-content/faq.html) to view the useful technical tools and FAQ.
 
-### Known Limitations & Production Setup 
+## Known Limitations & Production Setup 
 
 As you bring up the application with this local setup, you will be missing some functionality of the real deployed version.
   1. Google Maps API integration
