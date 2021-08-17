@@ -1,7 +1,13 @@
+---
+layout: default
+title: New City Local Setup Instructions
+parent: New City Setup
+grand_parent: Technical Content
+---
+
 # *New City Local Setup Instructions*
 
 We’re so glad you have decided to use our Police Data Manager tool! This guide is meant to provide instructions for setting up your Police Data Manager and Instance Files locally in order to use and customize the tool for your desired city.
-
 
 
 ## GETTING STARTED
