@@ -7,7 +7,7 @@ grand_parent: Technical Content
 
 # *New City: Local Setup Instructions*
 
-We’re so glad you have decided to use our Police Data Manager tool! This guide is meant to provide instructions for setting up your Police Data Manager and Instance Files locally in order to use and customize the tool for your desired city.
+We’re so glad you have decided to use our Police Data Manager tool! This guide provides instructions for setting up your Police Data Manager and Instance Files locally in order to run and customize the tool for your desired city.
 
 
 ## GETTING STARTED
@@ -16,7 +16,6 @@ We’re so glad you have decided to use our Police Data Manager tool! This guide
 ### Introduction
 
 Follow this [link](https://publicdataworks.github.io/pdm-docs/business-content/introduction-to-police-data-manager.html) to view the introduction to the Police Data Manager tool.
-
 ### Clone Police Data Manager Repository
 
 Follow this [link](https://github.com/PublicDataWorks/police_data_manager.git) to view and clone the **police_data_manager** Repository in Github.
