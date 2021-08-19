@@ -218,7 +218,6 @@ Located in **instance-files/tests/e2e/nightwatch.conf.js**
 
 
 
-* Change the value of the **pd_address** from `Location: 966 Morningview Lane, Grenville, WI 53540` to your police department’s address.
 * Change the value of the ci **launch_url** from `https://pm-ci.herokuapp.ex/` to the link of your heroku app in CI. 
 * Change the value of the staging **launch_url** from `https://pm-staging.herokuapp.ex/` to the link of your heroku app in CI. 
 
