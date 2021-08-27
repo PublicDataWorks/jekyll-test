@@ -116,15 +116,15 @@ Phone (641) 892-7222| Fax (414) 335-3049
 * Change the number `(641) 892-7222` to reflect your organization’s number.
 * Change the email `policemonitor@pm.ex` to reflect your organization’s email.
 * Change the name `Nina S Ambroise` and title `Complaint Intake Consultant` to reflect your organization’s intake specialist’s name and title. 
+* Change the filename `nina_s_ambroise.png` to your organization’s intake specialist's name/corresponding signature filename.
 
 
 ### Letter Signatures
 
 Located in /**instance-files/images**
 
-
-
-* Delete `john_a_simms.png` and add a PNG of your police monitor’s signature (or whoever will be signing off on letters).
+* Delete `john_a_simms.png` and add a PNG of your police monitor’s signature (or whoever will be signing off on referral letters).
+* Delete `nina_s_ambroise.png` and add a PNG of your intake specialist's signature (or whoever will be signing off on complainant letters).
 
 Located in **instance-files/content.json**
 
